@@ -1,5 +1,4 @@
-**Name:** Keerthana Saravanan
-**Register Number:** 212223240070
+# EX-5: Implementation of Kalman Filter
 <H3>Aim:</H3> To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
 <H3>Algorithm:</H3>
 Step 1: Define the state transition model F, the observation model H, the process noise covariance Q, the measurement noise covariance R, the initial state estimate x0, and the initial error covariance P0.<BR>
